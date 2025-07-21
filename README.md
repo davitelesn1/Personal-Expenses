@@ -3,9 +3,9 @@
 
 ## 📷 Imagens do App
 
-![Demo do app](assets/ss1.png)
-![Demo do app](assets/ss2.png)
-![Demo do app](assets/ss3.png)
+![Demo do app](assets/images/ss1.png)
+![Demo do app](assets/images/ss2.png)
+![Demo do app](assets/images/ss3.png)
 
 Este projeto é um aplicativo de **controle de despesas pessoais** desenvolvido com **Flutter** e **Dart**, onde o usuário pode registrar gastos, visualizar uma lista de transações e acompanhar um gráfico semanal dos seus gastos.
 

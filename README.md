@@ -2,10 +2,7 @@
 # 💰 Personal Expenses - Controle de Despesas com Flutter
 
 ## 📷 Imagens do App
-
-![Demo do app](assets/ss1.png)
-![Demo do app](assets/ss2.png)
-![Demo do app](assets/ss3.png)
+<img src="assets/images/ss1.png" width="250"/> <img src="assets/images/ss2.png" width="250"/> <img src="assets/images/ss3.png" width="250"/>
 
 Este projeto é um aplicativo de **controle de despesas pessoais** desenvolvido com **Flutter** e **Dart**, onde o usuário pode registrar gastos, visualizar uma lista de transações e acompanhar um gráfico semanal dos seus gastos.
 
